@@ -26,4 +26,4 @@ Desktop View:
 ### Links
 
 - Solution URL: https://github.com/gusrod22/product-card/blob/main/index.html
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://gusrod22.github.io/product-card/
