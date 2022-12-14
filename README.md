@@ -7,11 +7,11 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 Mobile View:
 
-mobile-design.jpg![image](https://user-images.githubusercontent.com/90981527/207492965-ddc79bf7-0791-4d6f-b0e4-fd72f8761749.png)
+![image](https://user-images.githubusercontent.com/90981527/207492965-ddc79bf7-0791-4d6f-b0e4-fd72f8761749.png)
 
 Desktop View:
 
-desktop-design.jpg![image](https://user-images.githubusercontent.com/90981527/207492987-f759955a-8e2b-4879-bed3-542ed668a733.png)
+![image](https://user-images.githubusercontent.com/90981527/207492987-f759955a-8e2b-4879-bed3-542ed668a733.png)
 
 ### My solution:
 
